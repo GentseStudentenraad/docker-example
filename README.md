@@ -1,3 +1,5 @@
+[![Publish Docker Image](https://github.com/GentseStudentenraad/docker-example/actions/workflows/publish.yml/badge.svg)](https://github.com/GentseStudentenraad/docker-example/actions/workflows/publish.yml)
+
 # Publish a Docker image
 
 An example on how to publish a Docker image to Github.
